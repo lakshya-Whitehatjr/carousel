@@ -1,0 +1,42 @@
+.margins {
+    list-style: none;
+    position: absolute;
+    
+    right:30px;
+    cursor: pointer;
+   
+
+}
+
+.navi {
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+
+    font-size: 20px;
+    
+
+}
+.navi:hover{
+    font-size: 25px;
+}
+#home{
+    text-align: center;
+}
+.images{
+    height: 200px;
+    width:200px;
+}
+.spans{
+    margin:5px;
+}
+.div1{
+    margin:5px;
+}
+body{
+    background-image: linear-gradient(yellow,red)
+}
+.heads{
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
